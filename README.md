@@ -1,7 +1,7 @@
 # radical-love-oracle
-## a valentines day project where the user can spread love and affirm themselves, its a conceptual art piece! On the screen, there are a few affirmations that cycle thru. with each click, close your eyes and channel your energy thru the buttons out into the world. 
+## Radical Love Oracle is an interactive experience that allows users to send love and affirmations through a simple graphical interface. its a conceptual art piece! On the screen, there are a few affirmations that cycle thru. with each click, close your eyes and channel your energy thru the buttons out into the world. No prior coding experience is needed
 
-## We are always engaging in digital spaces and world that are lacking in love and community. This oracle is made to remind us of what can be, not what is. It is a testament to stay hopeful.
+### We are always engaging in digital spaces and world that are lacking in love and community. This oracle is made to remind us of what can be, not what is. It is a testament to stay hopeful.
 
 
 
