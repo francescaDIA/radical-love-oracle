@@ -24,6 +24,8 @@ for handling videos
 
 ## make changes to the valentines.py on lines 11,13,15 and 17 to set the locations locally to the audio and visual files in this project.
 
+## run the program with
+    python3 valentines.py
 
 # Troubleshooting
 
