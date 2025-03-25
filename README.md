@@ -15,7 +15,7 @@ Open Terminal and install homebrew using:
 
 
 ## install required dependancies:
-pygame and tkvideo:
+    pygame and tkvideo:
     pip install pygame tkvideo
 for handling videos
     brew install ffmpeg
@@ -26,15 +26,15 @@ for handling videos
 
 # Troubleshooting
 
-## Issue: "pygame.error: ModPlug_Load failed"
+Issue: "pygame.error: ModPlug_Load failed"
 
-## Solution: Ensure the audio files are in the correct location and correctly formatted (.mp3). If using .m4a, convert it to .mp3 using an online converter or FFmpeg:
+Solution: Ensure the audio files are in the correct location and correctly formatted (.mp3). If using .m4a, convert it to .mp3 using an online converter or FFmpeg:
 
     ffmpeg -i input.m4a output.mp3
 
-## Issue: "ffmpeg: command not found"
+Issue: "ffmpeg: command not found"
 
-## Solution: Install FFmpeg:
+Solution: Install FFmpeg:
 
     brew install ffmpeg  # macOS
 
