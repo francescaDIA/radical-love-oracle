@@ -15,8 +15,9 @@ Open Terminal and install homebrew using:
 
 
 ## install required dependancies:
-    pygame and tkvideo:
+pygame and tkvideo:
     pip install pygame tkvideo
+    
 for handling videos
     brew install ffmpeg
 
