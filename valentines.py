@@ -8,13 +8,13 @@ class valentines:
 
     def __init__(self):
         #set location for static2.mp3
-        static_audio = " "
+        static_audio = "audio/static2.mp3"
         #set location for comp.mov
-        comp_visual = " "
+        comp_visual = "visual/comp.mov"
         #set location for love.mp3
-        love_audio = " "
+        love_audio = "audio/love.mp3"
         #set location for affirm.mp3
-        affirm_audio = " "
+        affirm_audio = "audio/affirm.mp3"
        
     #main window configs
         self.main_window = tkinter.Tk()
